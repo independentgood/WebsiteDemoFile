@@ -2,6 +2,19 @@ You can use markdown to add content to you webpage.
 
 Here are some highlights of markdown syntax.
 
+# Adding a custom H1
+## and an H2
+Demo paragraph with words and words and words and words and words and words and words and words and words and words and words and words and words and words and *words* and words and words and words and words and words and words and words and words and words and words and **words**.
+
+Then came the list
+* Item 0
+* Item 0
+* * Item 0
+* * Item 0
+* Item 0
+
+
+
 # Heading 1
 ## Heading 2
 ### Heading 3
