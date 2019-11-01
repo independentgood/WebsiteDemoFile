@@ -33,3 +33,6 @@ Then came the list
 
 Here is an image. Don't forget some alt text for better accessibility!
 ![Image of GitHub's mascot Octocat](images/Octocat.png)
+
+Here is another image who need alt text. 
+![A baby image of GitHub's mascot Octocat](images/Octocat.png)
