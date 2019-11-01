@@ -35,4 +35,4 @@ Here is an image. Don't forget some alt text for better accessibility!
 ![Image of GitHub's mascot Octocat](images/Octocat.png)
 
 Here is another image who need alt text. 
-![A baby image of GitHub's mascot Octocat](images/Octocat.png)
+![A baby image of GitHub's mascot Octocat](images/Screen Shot 2019-11-01 at 2.03.06 PM.png)
