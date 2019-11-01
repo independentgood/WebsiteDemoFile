@@ -9,8 +9,8 @@ Demo paragraph with words and words and words and words and words and words and 
 Then came the list
 * Item 0
 * Item 0
-* * Item 0
-* * Item 0
+  * Item 0
+  * Item 0
 * Item 0
 
 
